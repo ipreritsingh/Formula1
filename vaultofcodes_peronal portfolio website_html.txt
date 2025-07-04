@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prerit Kumar - Portfolio</title>
+</head>
+<body>
+
+    <h1>Prerit Kumar</h1>
+
+    <h2>About Me</h2>
+    <p>Aspiring to develop diverse technical and ethical skills to secure a position where I can make informed, innovative, and impactful decisions that contribute to technological advancement, organizational growth, and meaningful change in the industry.</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Python</li>
+        <li>Basic Web Development</li>
+        <li>C</li>
+        <li>Graphic Design</li>
+    </ul>
+
+    <h2>Interests</h2>
+    <ul>
+        <li>Cricket</li>
+        <li>Chess</li>
+        <li>Touring World</li>
+        <li>Driving</li>
+    </ul>
+
+    <h2>Projects</h2>
+    
+    <h3>Auto-Billing System (2nd Year Project)</h3>
+    <p>Sep 2024 - Nov 2024<br>
+    Created an auto-billing system using Raspberry Pi, integrating sensors and real-time data processing to simulate automated retail systems.</p>
+
+    <h3>Floor-Cleaning Robot (1st Year Project)</h3>
+    <p>Nov 2023 - Jan 2024<br>
+    Engineered a floor-cleaning robot using Arduino, Python, and hand gesture sensors, gaining hands-on experience in embedded systems, automation, and hardware-software integration.</p>
+
+    <h2>Contact Information</h2>
+    <p>Email: preritkumar8789@gmail.com</p>
+    <p>Phone: +91 6203859215</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/ipreritsingh" target="_blank">linkedin.com/in/ipreritsingh</a></p>
+
+</body>
+</html>
